@@ -8,6 +8,7 @@
 
 To study and measure the characteristics of an H-plane tee.
 
+
 ## Apparatus Used
 
 Klystron power supply, klystron mount with tube, isolator, variable attenuator, frequency meter, slotted line section, H-plane tee, detector mount / crystal detector, matched terminations, VSWR meter, waveguide stands.
